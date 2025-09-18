@@ -1,10 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Brother - Phone Number & Contact Information | Brother US</title>
-</head>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+   <head>
+       <meta charset="utf-8">
+       <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Brother - Phone Number & Contact Information | Brother US</title>
+       <meta name="description" content="Brother customer service number is +1-803-866-1601 available 24/7 for live assistance. Reach a live representative for help with Error Support..">
+       <meta name="viewport" content="width=device-width, initial-scale=1">
+       <link rel="stylesheet" href="">
+       <meta http-equiv='content-language' content='en-gb'>
+   </head>
 <body>
   <h1>Brother - Phone Number & Contact Information | Brother US</h1>
 
